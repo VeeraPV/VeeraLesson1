@@ -1,5 +1,5 @@
 func1()
-{
-scanf("hello WOrld");
+
+sendtoprinter("hello WOrld");
 
 }
