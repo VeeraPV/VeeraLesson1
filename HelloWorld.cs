@@ -1,4 +1,5 @@
 func1()
 {
-printf("hello WOrld");
+scanf("hello WOrld");
+
 }
